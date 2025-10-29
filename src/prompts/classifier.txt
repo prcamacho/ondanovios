@@ -1,0 +1,1 @@
+﻿Dado un mensaje del usuario, responde JSON: {"buy": boolean, "service": string|null}
